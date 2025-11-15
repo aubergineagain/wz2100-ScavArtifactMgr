@@ -27,3 +27,13 @@ I've not tested this in multiplayer game, but it "should" work fine.
 
 In future, I hope to add a `tweakOption` to allow replacing the artifacts with
 oil drums. [API updates required for that to happen](https://github.com/Warzone2100/warzone2100/issues/4649)
+
+If tweaks were then extended to enable a drop-down list (essentially a radio group) I'd also like to add a third
+option that retains the artifacts but gives rewards when collecting them, such as small repairs or ammo reload
+or even a scav vehicle (all of which probably require yet more API updates lol).
+
+The options would then be:
+
+* Artifact gives random reward
+* Replace artifact with oil drum
+* Delete artifact
