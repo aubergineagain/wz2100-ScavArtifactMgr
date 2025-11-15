@@ -18,7 +18,7 @@ I've not tested this in multiplayer game, but it "should" work fine.
 
 ### Installation
 
-1. Go to `Releases` tab and download the zip file for latest version
+1. Go to `Releases` tab and download the latest *`ScavArtifactMgr.zip`* file
 2. Launch Warzone 2100, open `Options` menu, click `Open Configuration Directory` button (bottom left of menu)
 3. Go in to `mods` then the version folder (eg. `4.6.1`) then `autoload`
 4. Place the downloaded zip in the `autoload` folder
